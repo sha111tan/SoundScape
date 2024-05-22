@@ -1,4 +1,4 @@
-# SoundScape - Онлайн-магазин аудиотехники
+# SoundScape - онлайн-магазин аудиотехники
 React.js(Vite) + FastAPI + Postgresql
 ![screenshot](https://github.com/sha111tan/SoundScape/blob/main/frontend/Снимок%20экрана%20(100).png)
 
